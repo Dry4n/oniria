@@ -1,9 +1,9 @@
 {
-  "title": "Oniria — Noticias, cultura y ciencia del sueño",
-  "description": "Explora el universo del sueño a través de la ciencia, la cultura y las historias que nos conectan.",
+  "title": "Oniria — Vista previa del diseño",
+  "description": "Vista previa de la propuesta visual de Oniria.",
   "language": "es",
   "robots": {
-    "index": true
+    "index": false
   },
   "accessibility": {
     "addBypassLinks": true,
