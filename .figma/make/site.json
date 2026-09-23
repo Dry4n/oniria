@@ -1,0 +1,10 @@
+{
+  "description": "This blog platform publishes news articles, featuring a user-friendly layout with recent posts and daily highlights, perfect for keeping readers informed.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
