@@ -1,10 +1,12 @@
 {
-  "description": "This blog platform publishes news articles, featuring a user-friendly layout with recent posts and daily highlights, perfect for keeping readers informed.",
+  "title": "Oniria — Noticias, cultura y ciencia del sueño",
+  "description": "Explora el universo del sueño a través de la ciencia, la cultura y las historias que nos conectan.",
+  "language": "es",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
-    "addBypassLinks": false,
+    "addBypassLinks": true,
     "ignoreReducedMotion": false
   }
 }
